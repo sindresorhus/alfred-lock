@@ -1,6 +1,6 @@
 {
 	"name": "alfred-lock",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"description": "Alfred 3 workflow to lock your Mac",
 	"license": "MIT",
 	"repository": "sindresorhus/alfred-lock",
