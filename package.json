@@ -1,13 +1,13 @@
 {
 	"name": "alfred-lock",
 	"version": "2.0.0",
-	"description": "Alfred 3 workflow to lock your Mac",
+	"description": "Alfred workflow to lock your Mac",
 	"license": "MIT",
 	"repository": "sindresorhus/alfred-lock",
 	"author": {
 		"name": "Sindre Sorhus",
 		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"url": "https://sindresorhus.com"
 	},
 	"engines": {
 		"node": ">=8"
